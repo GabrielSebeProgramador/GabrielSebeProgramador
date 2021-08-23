@@ -1,5 +1,5 @@
 ### Olá, Meu nome é Gabriel Augusto 👍
-- Estou estudando programação há quatro meses!
+
 - Linguagens de programação que estou estudando :
 - C# 📕
 - Python 📘
