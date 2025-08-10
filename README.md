@@ -1,8 +1,4 @@
-### Olá, Meu nome é Gabriel Augusto 👍
-
-- Linguagens de programação que estou estudando :
-- C# 📕
-- Python 📘
+### Gabriel Augusto
 
  <div>
   <a href="https://github.com/GabrielSebeProgramador">
